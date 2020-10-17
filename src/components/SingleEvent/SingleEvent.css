@@ -1,0 +1,26 @@
+.card{
+    margin-bottom:30px
+}
+.card-body{
+    padding: 0 !important;
+}
+.card-body img{
+    max-height: 240px;
+    width: 100%;
+}
+.card-footer{
+    padding: 20px 0 !important;
+    font-size: 20px !important;
+    background: #3F90FC !important;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    transition: .4s
+}
+
+.single-event a:hover, .card-footer:hover{
+    color: #000;
+    text-decoration: none;
+}

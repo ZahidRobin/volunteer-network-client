@@ -1,0 +1,33 @@
+.navbar-brand a img{
+    height: 40px;
+    width: auto;
+}
+.navbar{
+    padding: 1rem 0 !important;
+}
+.navbar-nav{
+    padding: 10px 40px !important;
+    padding-left: 0 !important;
+}
+.navbar-nav:last-child{
+    padding-right: 0 !important;
+}
+.navbar-nav .btn{
+    padding: .375rem 2rem;
+}
+.navbar-nav a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.navbar-nav a:hover{
+    text-decoration: none;
+}
+.navbar-nav:nth-child(5){
+    padding: 5px 30px!important;
+    padding-left: 0 !important;
+}
+.navbar-nav:nth-child(6){
+    padding: 5px 0px!important;
+    padding-left: 0 !important;
+}

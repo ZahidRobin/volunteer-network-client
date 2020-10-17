@@ -1,0 +1,32 @@
+.admin-section{
+    padding: 1rem 0;
+}
+.admin-menu-area img{
+    height: 50px;
+    width: auto
+}
+.admin-menu-area ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding: 20px 0;
+}
+.admin-menu-area ul li{
+    padding: 10px 0;
+}
+.admin-menu-area ul li.selected a{
+    color: #2582EE !important;
+}
+.admin-menu-area ul li a{
+    color: #000;
+    text-decoration: none;
+}
+.admin-menu-area ul li a img{
+    height: 20px;
+    width: auto;
+    padding-right: 12px;
+}
+.admin-menu-area ul li a:hover{
+    color: #2582EE;
+    text-decoration:none;
+}

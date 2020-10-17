@@ -1,0 +1,21 @@
+.event-list-table{
+    background: #fff;
+    padding: 25px;
+}
+.event-list-table .table{
+    background: #F8FAFC;
+    border-radius: 15px;
+    font-size: 14px;
+}
+.event-list-table i{
+    font-size: 25px;
+    color: #fff;
+    background: #FF444A;
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

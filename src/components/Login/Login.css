@@ -1,0 +1,51 @@
+.login-section{
+    padding: 40px 100px;
+    text-align: center;
+}
+.login-section img{
+    height: 60px;
+}
+.login-area{
+    margin-top: 40px;
+    height: 360px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    border: 1px solid #D3D3D3;
+    border-radius: 5px;
+}
+.login-area h2{
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+.login-area p a {
+    text-decoration: underline;
+}
+.socialButton{
+    display: block;
+    width: 100%;
+    display:flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background: #fff;
+    transition: .4s;
+    border: 1px solid gray;
+}
+.socialButton span{
+    text-align: center;
+    width: 100%
+}
+.socialButton img{
+    height: 30px;
+}
+.socialButton:hover{
+    background: #2268bd;
+    color: #fff
+}
